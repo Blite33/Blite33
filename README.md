@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blite33
 - 👀 I’m interested in
-Automating common tasks with scripts or programs
+Automating common tasks with scripts or programs, and getting off the grid and out of the machine.
 - 🌱 I’m currently learning
 Python (3)
 - 💞️ I’m looking to collaborate on:
