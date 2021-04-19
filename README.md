@@ -3,7 +3,7 @@
 Automating common tasks with scripts or programs
 - 🌱 I’m currently learning
 Python (3)
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on:
 Nothing yet, I don't know much programming.
 - 📫 How to reach me ...
 Right now, I don't want that info on my profile. Feel free to comment somewhere though, it sends me an email.
