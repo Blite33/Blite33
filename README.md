@@ -3,7 +3,7 @@
 Automating common tasks with scripts or programs, and getting off the grid and out of the machine.
 I'm also interested in making my website and web services.
 - 🌱 I’m currently learning
-Python (3)
+Python (3) and how to operate a web server.
 - 💞️ I’m looking to collaborate on:
 Nothing yet, I don't know much programming.
 - 📫 How to reach me ...
